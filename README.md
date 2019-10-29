@@ -1,4 +1,4 @@
-# PROJ_01-image-encryption
+Image-encryption
 
 Image Encryption with RSA Algorithm aims to encrypt confidential images using RSA algorithm and makes it intelligible to view without decrypting it.
 
